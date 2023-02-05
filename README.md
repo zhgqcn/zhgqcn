@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhgqcn
-- 👀 I’m interested in Graph representation learning.
-- 🌱 I’m currently learning GNN & NILM.
+- 👀 I’m interested in `金灿灿之战`.
+- 🌱 I’m currently learning `摆烂`.
 
 
 <!---
