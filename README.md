@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhgqcn
-
-
+- 🌱 My Blog : [zhgqcn](zhgqcn.gitee.io)
+- 📫 How to reach me zhgqcn@foxmail.com
 
 <!---
 - 👀 I’m interested in `金灿灿之战`.
